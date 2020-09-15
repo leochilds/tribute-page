@@ -4,3 +4,18 @@ img {
     max-width: 608px;
     margin: auto;
 }
+
+#tribute-card {
+    width: fit-content;
+    max-width: 608px;
+}
+
+figure {
+    border-top: black solid 1px; /* Image has a border on bottom and sides. Added for consistancy */
+    margin: 1em 0px;
+}
+
+.w3-card {
+    display: block;
+    margin: auto;
+}
